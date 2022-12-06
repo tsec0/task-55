@@ -28,6 +28,11 @@ html {
 }
 
 .container {
+  padding: 10px;
   display: flex;
   margin: 0;
+}
+
+.sidebar {
+  width: 280px;
 }
